@@ -1,8 +1,8 @@
 {
-  "name": "nest-app",
+  "name": "gylph-guide-go",
   "version": "0.0.1",
   "description": "",
-  "author": "",
+  "author": "Carlos Nakanishi",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
